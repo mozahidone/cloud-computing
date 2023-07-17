@@ -9,6 +9,7 @@
     <version>0.0.1</version>
     <modules>
         <module>aws</module>
+        <module>gcp</module>
     </modules>
 
     <packaging>pom</packaging>
