@@ -19,6 +19,7 @@
         <module>lambda</module>
         <module>dynamoDB</module>
         <module>sqs</module>
+        <module>spring-cloud-function</module>
     </modules>
 
 </project>

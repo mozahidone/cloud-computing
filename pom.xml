@@ -8,7 +8,6 @@
     <artifactId>cloud-computing</artifactId>
     <version>0.0.1</version>
     <modules>
-        <module>spring-cloud-function</module>
         <module>aws</module>
     </modules>
 
