@@ -1,17 +1,18 @@
-Cloud Computing with Spring Boot
+# Cloud Computing with Spring Boot
 This repository contains a sample project that demonstrates how to leverage cloud computing capabilities using Spring Boot. The project aims to provide developers with practical examples of integrating Spring Boot applications with various cloud services to build scalable, resilient, and cost-effective solutions.
 
-Table of Contents
-Introduction
-Prerequisites
-Getting Started
-Features
-Project Structure
-Cloud Services Integration
-Deployment
-Contributing
-License
-Introduction
+# Table of Contents
+# Introduction
+# Prerequisites
+# Getting Started
+# Features
+# Project Structure
+# Cloud Services Integration
+# Deployment
+# Contributing
+# License
+# Introduction
+
 Cloud computing has revolutionized the way we build, deploy, and manage applications. This project demonstrates how to harness the power of cloud services using Spring Boot. It covers various aspects of cloud computing, such as cloud storage, databases, serverless computing, microservices, and more.
 
 Prerequisites
